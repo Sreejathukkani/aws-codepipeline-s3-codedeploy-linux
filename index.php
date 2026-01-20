@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Sample Deployment</title>
+  <title>Sample Deployment - Updated by Sreeja</title>
   <style>
     body {
       color: #ffffff;
@@ -27,6 +27,7 @@
 <body>
   <div align="center">
     <h1>Congratulations!</h1>
+	  <h2 style="color: yellow;">This is my test change!</h2>
     <h2>You have successfully created a pipeline that retrieved this source application from an Amazon S3 bucket and deployed it 
 	to three Amazon EC2 instances using AWS CodeDeploy.</h2>
     <p>For next steps, read the AWS CodePipeline Documentation.</p>
